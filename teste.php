@@ -55,7 +55,6 @@ switch ($soma) {
     
     default:
         echo "numero diferente de 10";
-        # code...
         break;
 }
 
