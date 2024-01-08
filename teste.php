@@ -1,3 +1,4 @@
 <?php
 
+// Comentário
 echo 'teste';
